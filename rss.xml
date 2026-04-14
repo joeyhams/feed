@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>joel's rss</title>
+    <link>https://joeyhams.github.io/feed/</link>
+    <description>personal rss feed</description>
+
+    <item>
+      <title>https://joeyhams.github.io/feed/</title>
+      <link>https://example.com/post-1</link>
+      <description><![CDATA[
+      <p>Hello, I want to see how all of these options will work 
+      the nom terminal RSS viewer.</p>
+      <h1>Biggest heading</h1>
+      <h2>Slightly smaller</h2>
+      <h3>Smaller still</h3>   <!-- goes up to h6 -->
+
+      <p>A paragraph of text.</p>
+
+      <strong>Bold text</strong>
+      <em>Italic text</em>
+
+      <a href="https://example.com">A link</a>
+
+      <ul>              <!-- unordered (bullet) list -->
+          <li>Item one</li>
+          <li>Item two</li>
+      </ul>
+
+      <ol>              <!-- ordered (numbered) list -->
+          <li>First</li>
+          <li>Second</li>
+      </ol>
+
+      <blockquote>An indented quote.</blockquote>
+
+      <code>inline code</code>
+
+      <pre>
+              preformatted text,
+              whitespace is preserved
+      </pre>
+          ]]></description>
+      <pubDate>Mon, 14 Apr 2025 04:00:00 GMT</pubDate>
+      <guid>https://joeyhams.github.io/feed/#test-post</guid>
+    </item>
+
+  </channel>
+</rss>
