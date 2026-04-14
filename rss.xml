@@ -8,7 +8,7 @@
 
     <item>
         <title>A third test post some might say</title>
-        <link>https://joeyhams.github.io/feed/rss.xml</link>
+        <link>https://joeyhams.github.io/feed/rss.xml#2026-04-14-02</link>
         <description><![CDATA[
             <p>
                 Okay so this time maybe we will have figured it out, the posts
@@ -21,7 +21,7 @@
 
     <item>
         <title>Second test post</title>
-        <link>https://joeyhams.github.io/feed/rss.xml</link>
+        <link>https://joeyhams.github.io/feed/rss.xml#2026-04-14-1</link>
         <description><![CDATA[
         <p>I want RSS to come back in a big way so that I don't have to deal with Instagram.</p>
             ]]></description>
@@ -31,7 +31,7 @@
 
     <item>
       <title>Test post</title>
-      <link>https://joeyhams.github.io/feed/rss.xml</link>
+      <link>https://joeyhams.github.io/feed/rss.xml#2026-04-14-0</link>
       <description><![CDATA[
       <p>Hello, I want to see how all of these options will work 
       the nom terminal RSS viewer.</p>
