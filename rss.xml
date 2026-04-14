@@ -22,12 +22,12 @@
 
       <a href="https://example.com">A link</a>
 
-      <ul>              <!-- unordered (bullet) list -->
+      <ul>
           <li>Item one</li>
           <li>Item two</li>
       </ul>
 
-      <ol>              <!-- ordered (numbered) list -->
+      <ol>
           <li>First</li>
           <li>Second</li>
       </ol>
@@ -41,7 +41,7 @@
               whitespace is preserved
       </pre>
           ]]></description>
-      <pubDate>Mon, 14 Apr 2025 04:00:00 GMT</pubDate>
+      <pubDate>Tue, 14 Apr 2026 04:00:00 GMT</pubDate>
       <guid>https://joeyhams.github.io/feed/rss.xml#2026-04-14-0</guid>
     </item>
 
@@ -51,8 +51,8 @@
       <description><![CDATA[
       <p>I want RSS to come back in a big way so that I don't have to deal with Instagram.</p>
           ]]></description>
-      <pubDate>Mon, 14 Apr 2025 04:05:00 GMT</pubDate>
-      <guid>https://joeyhams.github.io/feed/rss.xml#2024-04-14-1</guid>
+      <pubDate>Tue, 14 Apr 2026 04:05:00 GMT</pubDate>
+      <guid>https://joeyhams.github.io/feed/rss.xml#2026-04-14-1</guid>
     </item>
 
   </channel>
