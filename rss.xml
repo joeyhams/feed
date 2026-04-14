@@ -6,6 +6,29 @@
     <description>personal rss feed</description>
 
     <item>
+        <title>A third test post some might say</title>
+        <link>https://joeyhams.github.io/feed/rss.xml</link>
+        <description><![CDATA[
+            <p>
+                Okay so this time maybe we will have figured it out, the posts
+                are now in the correct order and shit
+            </p>
+            ]]></description>
+        <pubDate>Tue, 14 Apr 2026 05:00:00 GMT</pubDate>
+        <guid>https://joeyhams.github.io/feed/rss.xml#2026-04-14-2</guid>
+    </item>
+
+    <item>
+        <title>Second test post</title>
+        <link>https://joeyhams.github.io/feed/rss.xml</link>
+        <description><![CDATA[
+        <p>I want RSS to come back in a big way so that I don't have to deal with Instagram.</p>
+            ]]></description>
+        <pubDate>Tue, 14 Apr 2026 04:05:00 GMT</pubDate>
+        <guid>https://joeyhams.github.io/feed/rss.xml#2026-04-14-1</guid>
+    </item>
+
+    <item>
       <title>Test post</title>
       <link>https://joeyhams.github.io/feed/rss.xml</link>
       <description><![CDATA[
@@ -43,16 +66,6 @@
           ]]></description>
       <pubDate>Tue, 14 Apr 2026 04:00:00 GMT</pubDate>
       <guid>https://joeyhams.github.io/feed/rss.xml#2026-04-14-0</guid>
-    </item>
-
-    <item>
-      <title>Second test post</title>
-      <link>https://joeyhams.github.io/feed/rss.xml</link>
-      <description><![CDATA[
-      <p>I want RSS to come back in a big way so that I don't have to deal with Instagram.</p>
-          ]]></description>
-      <pubDate>Tue, 14 Apr 2026 04:05:00 GMT</pubDate>
-      <guid>https://joeyhams.github.io/feed/rss.xml#2026-04-14-1</guid>
     </item>
 
   </channel>
