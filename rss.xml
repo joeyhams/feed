@@ -6,14 +6,14 @@
     <description>personal rss feed</description>
 
     <item>
-      <title>https://joeyhams.github.io/feed/</title>
-      <link>https://example.com/post-1</link>
+      <title>Test post</title>
+      <link>https://joeyhams.github.io/feed/</link>
       <description><![CDATA[
       <p>Hello, I want to see how all of these options will work 
       the nom terminal RSS viewer.</p>
       <h1>Biggest heading</h1>
       <h2>Slightly smaller</h2>
-      <h3>Smaller still</h3>   <!-- goes up to h6 -->
+      <h3>Smaller still</h3> 
 
       <p>A paragraph of text.</p>
 
@@ -40,6 +40,16 @@
               preformatted text,
               whitespace is preserved
       </pre>
+          ]]></description>
+      <pubDate>Mon, 14 Apr 2025 04:00:00 GMT</pubDate>
+      <guid>https://joeyhams.github.io/feed/#test-post</guid>
+    </item>
+
+    <item>
+      <title>Second test post</title>
+      <link>https://joeyhams.github.io/feed/</link>
+      <description><![CDATA[
+      <p>I want RSS to come back in a big way so that I don't have to deal with Instagram.</p>
           ]]></description>
       <pubDate>Mon, 14 Apr 2025 04:00:00 GMT</pubDate>
       <guid>https://joeyhams.github.io/feed/#test-post</guid>
